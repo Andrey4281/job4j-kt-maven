@@ -1,0 +1,4 @@
+package flyweight
+
+class Hostel {
+}
